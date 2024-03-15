@@ -1,0 +1,23 @@
+#alert-app {
+    transition: all .3s ease;
+    position: fixed;
+    top: 30px;
+    right: -400px;
+    z-index: 10000;
+    max-width: 480px;
+}
+
+#alert-app.active {
+    right: 30px;
+}
+
+@media (max-width: 576px) {
+    #alert-app {
+        max-width: 100%;
+        top: 0;
+    }
+
+    #alert-app.active {
+        right: 0;
+    }
+}
