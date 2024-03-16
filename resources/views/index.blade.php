@@ -40,7 +40,7 @@
                 id="listMunicipios">
                 <thead>
                     <tr class="fw-semibold fs-6 text-gray-800">
-                        <th class="min-w-60px">Id</th>
+                        <th class="min-w-90px">Id</th>
                         <th class="min-w-115px">CNPJ</th>
                         <th class="min-w-200px">Razão Social</th>
                         <th class="min-w-200px">Nome Fantasia</th>

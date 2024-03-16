@@ -1,11 +1,5 @@
 <!--begin::Alert-->
 <div class="alert alert-dismissible bg-light-danger d-flex flex-center flex-column py-10 px-10 px-lg-20 mb-0">
-    <!--begin::Close-->
-    <button type="button" class="position-absolute top-0 end-0 m-2 btn btn-icon btn-icon-danger" id="close-modal-delete">
-        <i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span></i>
-    </button>
-    <!--end::Close-->
-
     <!--begin::Icon-->
     <i class="ki-duotone ki-information-5 fs-5tx text-danger mb-5"><span class="path1"></span><span
             class="path2"></span><span class="path3"></span></i>

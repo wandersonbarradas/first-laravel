@@ -1,17 +1,5 @@
-<!--begin::Modal header-->
-<div class="modal-header pb-0 border-0 justify-content-end">
-    <!--begin::Close-->
-    <div class="btn btn-sm btn-icon btn-active-color-primary" data-bs-dismiss="modal">
-        <i class="ki-duotone ki-cross fs-1">
-            <span class="path1"></span>
-            <span class="path2"></span>
-        </i>
-    </div>
-    <!--end::Close-->
-</div>
-<!--begin::Modal header-->
 <!--begin::Modal body-->
-<div class="modal-body scroll-y px-10 px-lg-15 pt-0 pb-15">
+<div class="modal-body scroll-y px-10 px-lg-15 py-15">
     <!--begin:Form-->
     <form id="new_municipio_form" class="form" action="#">
         <!--begin::Heading-->
