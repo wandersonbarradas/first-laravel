@@ -64,7 +64,7 @@ class MunicipioController extends Controller
     {
         $response = [
             'status' => false,
-            'data' => "Usuario não encontrado!"
+            'data' => "Não foi possivel localizar este município!"
         ];
         if ($request->id) {
             $result = Municipio::find($request->id);
